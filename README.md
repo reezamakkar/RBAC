@@ -1,6 +1,6 @@
 # Assignment
 
-###Problem Statement and Approach
+## Problem Statement and Approach:
 Test require us to implement a role based auth system.
 
 1. System should be able to assign a role to a user and remove a role from a user.
@@ -8,8 +8,8 @@ Test require us to implement a role based auth system.
 3. One user can have multiple roles.
 4. Given a user, action type and resource, the system should be able to tell whether user has access or not.**
 
-###Relevant Files
-**Entity Classes defined in com.test.entities package:**
+## Relevant Files:
+Entity Classes defined in com.test.entities package:
 
 SYSTEM: RoleBasedAccessControlSystem class represents a **role based auth system** consists of set of users, roles and resources.
 
